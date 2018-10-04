@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ConfigOptions.Infrastructure.Interfaces;
 
 namespace ConfigOptions
 {
-    class Program
+    public class Application: IApplication
     {
-        static void Main(string[] args)
-        {
-
+        public void Run() {
+            Console.WriteLine("Running.....");
         }
     }
 }

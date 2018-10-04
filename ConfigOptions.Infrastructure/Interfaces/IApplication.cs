@@ -4,13 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConfigOptions
+namespace ConfigOptions.Infrastructure.Interfaces
 {
-    class Program
+    public interface IApplication
     {
-        static void Main(string[] args)
-        {
-
-        }
+        void Run();
     }
 }

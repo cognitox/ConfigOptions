@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConfigOptions
 {
-    class Program
+    class DiContainer
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }

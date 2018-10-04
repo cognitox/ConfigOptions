@@ -4,3 +4,6 @@
 
 /ConfigOptions/obj/Debug
 /.vs/ConfigOptions/v15
+/ConfigOptions/bin/Debug
+/ConfigOptions.Infrastructure/bin/Debug
+/packages/Autofac.4.8.1

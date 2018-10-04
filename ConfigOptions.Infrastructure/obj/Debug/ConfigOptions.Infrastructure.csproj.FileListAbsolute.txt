@@ -1,0 +1,9 @@
+C:\Users\Sumon-SSD\source\repos\ConfigOptions\ConfigOptions.Infrastructure\bin\Debug\ConfigOptions.Infrastructure.dll
+C:\Users\Sumon-SSD\source\repos\ConfigOptions\ConfigOptions.Infrastructure\bin\Debug\ConfigOptions.Infrastructure.pdb
+C:\Users\Sumon-SSD\source\repos\ConfigOptions\ConfigOptions.Infrastructure\bin\Debug\Autofac.dll
+C:\Users\Sumon-SSD\source\repos\ConfigOptions\ConfigOptions.Infrastructure\bin\Debug\Autofac.xml
+C:\Users\Sumon-SSD\source\repos\ConfigOptions\ConfigOptions.Infrastructure\obj\Debug\ConfigOptions.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Sumon-SSD\source\repos\ConfigOptions\ConfigOptions.Infrastructure\obj\Debug\ConfigOptions.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sumon-SSD\source\repos\ConfigOptions\ConfigOptions.Infrastructure\obj\Debug\ConfigOptions.Infrastructure.csproj.CopyComplete
+C:\Users\Sumon-SSD\source\repos\ConfigOptions\ConfigOptions.Infrastructure\obj\Debug\ConfigOptions.Infrastructure.dll
+C:\Users\Sumon-SSD\source\repos\ConfigOptions\ConfigOptions.Infrastructure\obj\Debug\ConfigOptions.Infrastructure.pdb
